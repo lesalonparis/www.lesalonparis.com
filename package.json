@@ -8,6 +8,7 @@
     "start": "http-server dist"
   },
   "devDependencies": {
+    "@tailwindcss/cli": "^4.1.18",
     "caniuse-lite": "^1.0.30001762",
     "copyfiles": "^2.4.1",
     "http-server": "^14.1.1",
